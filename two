@@ -1,4 +1,4 @@
 clone pull
 jenkins
 docker
-bnp
+bnp ch
