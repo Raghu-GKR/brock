@@ -1,4 +1,6 @@
 clone pull
+
+python
 jenkins
 docker
-bnp ch
+
